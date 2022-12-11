@@ -58,5 +58,31 @@ To kick start your programming journey you need below tools:
 
 ### Text Editor
 
+A text editor is a software that is used to write computer programs. Your Windows machine must have a Notepad, which can be used to type programs. 
 
 ![Image](notepade.jpg)
+
+You can use this text editor(famous Notepad from Microsoft) to write computer program.
+
+### Compiler
+
+> wikipedia
+  In computing, a compiler is a computer program that translates computer code written in one programming language (the source language) into another language (the target language). The name "compiler" is primarily used for programs that translate source code from a high-level programming language to a lower level language (e.g. assembly language, object code, or machine code) to create an executable program.
+
+
+![Image](compiler.png)
+
+So, if you are going to write your program in any such language, which needs compilation like C, C++, Java and Pascal, etc., then you will need to install their compilers before you start programming
+
+### Interpreter
+
+> wikipedia
+    In computer science, an interpreter is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. An interpreter generally uses one of the following strategies for program execution:
+
+    1. Parse the source code and perform its behavior directly;
+    2. Translate source code into some efficient intermediate representation or object code and immediately execute that;
+    3. Explicitly execute stored precompiled bytecode[1] made by a compiler and matched with the interpreter Virtual Machine.
+
+![Image](interpreter.jpg)
+
+So, if you are going to write your programs in PHP, Python, Perl, Ruby, etc., then you will need to install their interpreters before you start programming.
