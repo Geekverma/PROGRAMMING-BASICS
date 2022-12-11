@@ -5,7 +5,7 @@ A step by step detail guide to programming basics with python.
 > Computer programming is an act of writing a step by step action to perform
    action by computer machine
 
-** *This guide is an attempt to give roadmap to learn computer programming basics with practical approach learn at your pace* **
+** This guide is an attempt to give roadmap to learn computer programming basics with practical approach learn at your pace **
 
 
 __Note__: *No prerequisites require to learn from this guide, execpt a computer/laptop. Beginners-Friendly :)*
@@ -66,8 +66,8 @@ You can use this text editor(famous Notepad from Microsoft) to write computer pr
 
 ### Compiler
 
-> wikipedia
-  In computing, a compiler is a computer program that translates computer code written in one programming language (the source language) into another language (the target language). The name "compiler" is primarily used for programs that translate source code from a high-level programming language to a lower level language (e.g. assembly language, object code, or machine code) to create an executable program.
+wikipedia
+>  In computing, a compiler is a computer program that translates computer code written in one programming language (the source language) into another language (the target language). The name "compiler" is primarily used for programs that translate source code from a high-level programming language to a lower level language (e.g. assembly language, object code, or machine code) to create an executable program.
 
 
 ![Image](compiler.png)
@@ -76,8 +76,10 @@ So, if you are going to write your program in any such language, which needs com
 
 ### Interpreter
 
-> wikipedia
-    In computer science, an interpreter is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program. An interpreter generally uses one of the following strategies for program execution:
+wikipedia
+>    In computer science, an interpreter is a computer program that directly executes instructions written in a programming or scripting     language, without requiring them previously to have been compiled into a machine language program.
+
+An interpreter generally uses one of the following strategies for program execution:
 
     1. Parse the source code and perform its behavior directly;
     2. Translate source code into some efficient intermediate representation or object code and immediately execute that;
