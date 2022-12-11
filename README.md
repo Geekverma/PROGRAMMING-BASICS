@@ -43,9 +43,9 @@ From programming point of view, an algorithm is a step-by-step procedure to reso
 
 Thus, a computer programmer lists down all the steps required to resolve a problem before writing the actual code.
 
-*sum of N numbers
-*fibonacci series
-*factorial of Nth number 
+* sum of N numbers
+* fibonacci series
+* factorial of Nth number 
 
 ## PROGRAMMING ENVIRONMENT
 
@@ -59,4 +59,4 @@ To kick start your programming journey you need below tools:
 ### Text Editor
 
 
-![Image](../notepade.jpg)
+![Image](notepade.jpg)
