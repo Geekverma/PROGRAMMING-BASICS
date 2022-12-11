@@ -43,9 +43,9 @@ From programming point of view, an algorithm is a step-by-step procedure to reso
 
 Thus, a computer programmer lists down all the steps required to resolve a problem before writing the actual code.
 
--sum of N numbers
--fibonacci series
--factorial of Nth number 
+*sum of N numbers
+*fibonacci series
+*factorial of Nth number 
 
 ## PROGRAMMING ENVIRONMENT
 
@@ -59,4 +59,4 @@ To kick start your programming journey you need below tools:
 ### Text Editor
 
 
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwinaero.com%2Fblog%2Fwp-content%2Fuploads%2F2021%2F03%2FWindows-10-Notepad.png&imgrefurl=https%3A%2F%2Fwinaero.com%2Freset-notepad-window-position-and-size-in-windows-10%2F&tbnid=j2Ecdlm8FTHemM&vet=12ahUKEwjZ86n08_H7AhWkpukKHRBCCwAQMygAegUIARDeAQ..i&docid=qzpUohYB4MUIXM&w=364&h=253&q=notepad%20window&hl=en&ved=2ahUKEwjZ86n08_H7AhWkpukKHRBCCwAQMygAegUIARDeAQ)
+![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwinaero.com%2Fblog%2Fwp-content%2Fuploads%2F2021%2F03%2FWindows-10-Notepad.png&imgrefurl=https%3A%2F%2Fwinaero.com%2Freset-notepad-window-position-and-size-in-windows-10%2F&tbnid=j2Ecdlm8FTHemM&vet=12ahUKEwjZ86n08_H7AhWkpukKHRBCCwAQMygAegUIARDeAQ..i&docid=qzpUohYB4MUIXM&w=364&h=253&q=notepad%20window&hl=en&ved=2ahUKEwjZ86n08_H7AhWkpukKHRBCCwAQMygAegUIARDeAQ)
