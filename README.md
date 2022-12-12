@@ -98,7 +98,7 @@ Let's start writing some little code to get start with your programming journey 
 we will start Hello world program.
 
 ```
-print("Hello World! My First Python program \:\)")
+print("Hello World! My First Python program :)")
 ```
 In C and Java, remember we first compiling the program and then execute. But in __python__ we directly execute due to interpreter.
 Python does not require a semicolon (;) to terminate a statement, rather a new line always means termination of the statement.
@@ -107,8 +107,8 @@ Python does not require a semicolon (;) to terminate a statement, rather a new l
 
 popular way of commenting a line in *Python* /* ... */ or #, they are use to completely ignore line either in compiler or interpreter. 
 
-> /* print("ignore this line:)") */ 
-> #print("ignore this line:)") 
+* /* print("ignore this line:)") */ 
+* #print("ignore this line:)") 
 
 ### Whitespaces
 
@@ -131,16 +131,17 @@ In python there is no need to put semicolon, except a colon require that we will
 If you get this, it usually means you've misplaced a symbol or letter somewhere in your code.
 
 **Common-Cause**
-*forgetting to put quotes around a string
-*forgetting a colon : when using if, else, for, while, or def.
-*using = instead of == in a comparison
-*using return and = in the same line
-*mismatched number of open and close parentheses
-*misspelling a keyword or function name
-*inconsistent indentation
-*using a keyword as a variable name
-*using illegal characters (like spaces) in variable names
-*wrong capitalization: remember that Python is case-sensitive
+
+* forgetting to put quotes around a string
+* forgetting a colon : when using if, else, for, while, or def.
+* using = instead of == in a comparison
+* using return and = in the same line
+* mismatched number of open and close parentheses
+* misspelling a keyword or function name
+* inconsistent indentation
+* using a keyword as a variable name
+* using illegal characters (like spaces) in variable names
+* wrong capitalization: remember that Python is case-sensitive
 
 ## Data Type
 
@@ -153,11 +154,11 @@ If you get this, it usually means you've misplaced a symbol or letter somewhere 
 
 Python has five standard data types but this programming language does not make use of any keyword to specify a particular data type, rather Python is intelligent enough to understand a given data type automatically.
 
-*Numbers
-*String
-*List
-*Tuple
-*Dictionary
+* Numbers
+* String
+* List
+* Tuple
+* Dictionary
 
 Here, Number specifies all types of numbers including decimal numbers and string represents a sequence of characters with a length of 1 or more characters. For now, let's proceed with these two data types and skip List, Tuple, and Dictionary, which are advanced data types in Python.
 
@@ -181,21 +182,13 @@ print("sum of a & b :", a+b)
     |and	 |  exec   |	not   |
     |--------|---------|----------|
     |assert	 |  finally|    or    |
-    |--------|---------|----------|
     |break	 |  for	   |    pass  |
-    |--------|---------|----------|
     |class	 |  from   |    print |
-    |--------|---------|----------|
     |continue|  global |    raise |
-    |--------|---------|----------|
     |def	 |   if	   |    return|
-    |--------|---------|----------|
     |del	 |   import|    try   |
-    |--------|---------|----------|
     |elif	 |   in	   |    while |
-    |--------|---------|----------|
     |else	 |   is	   |    with  |
-    |--------|---------|----------|
     |except	 |  lambda |    yield |
 
 Just keep in mind next time, never to use a variable from above reserved keyword list.
@@ -217,13 +210,9 @@ are called arithmatic expression.
 | Operator |             Description	                          |        Example        |
 |----------|------------------------------------------------------|-----------------------|
 | \+	   |            Adds two operands	                      |    A + B will give 30 |
-|----------|------------------------------------------------------|-----------------------|
 | \-	   |            Subtracts second operand from the first   |   A - B will give -10 |
-|----------|------------------------------------------------------|-----------------------|
 | \*	   |             Multiplies both operands	              |   A * B will give 200 |
-|----------|------------------------------------------------------|-----------------------|
 | /	       |         Divides numerator by de-numerator	          |  / A will give 2      |
-|----------|------------------------------------------------------|-----------------------|
 | %	       |         This gives remainder of an integer division  |  B % A will give 0    |
 
 
@@ -242,15 +231,10 @@ The greater than symbol *>* is a relational operator. Common relational operator
 |Operator|	                       Description	                                                      |      Example           |
 |--------|--------------------------------------------------------------------------------------------|------------------------|
 |==	     |   Checks if the values of two operands are equal or not,if yes then condition becomes true.|   (A == B) is not true.|
-|--------|--------------------------------------------------------------------------------------------|------------------------|
 |!=	     |    Checks if the values of two operands are equal or not.	                              |     (A != B) is true.  |
-|--------|--------------------------------------------------------------------------------------------|------------------------|
 |>	     |    Checks if the value of left operand is greater than the value of right operand.         |   (A>B) is not true.   |
-|--------|--------------------------------------------------------------------------------------------|------------------------|
 |<	     |    Checks if the value of left operand is less than the value of right operand.	          | (A < B) is true.       |
-|--------|--------------------------------------------------------------------------------------------|------------------------|
 |>=	     |    Checks the value of left operand is greater than or equal to value of right operand.    |   (A>=B) is not true.  |
-|--------|--------------------------------------------------------------------------------------------|------------------------|
 |<=	     |    Checks if value of left operand less than or equal to the value of right operand.	      | (A <= B) is true.      |
 
 ### Logical Operator
@@ -261,7 +245,5 @@ Logical operators are very important in any programming language and they help u
 | Operator |	                                              Description	                                 |        Example       |
 |----------|-------------------------------------------------------------------------------------------------|----------------------|
 | &&	   | Called Logical AND operator. If both the operands are non-zero, then condition becomes true.	 |    (A && B) is false.|
-|----------|-------------------------------------------------------------------------------------------------|----------------------|
 | ||	   | Called Logical OR Operator. If any of the two operands is non-zero, then condition becomes true.|    (A || B) is true. |
-|----------|-------------------------------------------------------------------------------------------------|----------------------|
 | !	       | Called Logical NOT Operator. Use to reverses the logical state of its operand.                  | 	!(A && B) is true.  |
