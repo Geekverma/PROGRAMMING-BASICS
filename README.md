@@ -203,7 +203,7 @@ An operator in programming language tell compiler or interpreter to perform spec
 * a+b
 * a-b
 
-The above two **+** & **-** operator are widley use to perform calculations, therfore they are called arithmatic operator and expression 
+The above two __+__ & __-__ operator are widley use to perform calculations, therfore they are called arithmatic operator and expression 
 are called arithmatic expression.
 
 
@@ -246,5 +246,5 @@ Logical operators are very important in any programming language and they help u
 | Operator |	                                              Description	                                 |        Example       |
 |----------|-------------------------------------------------------------------------------------------------|----------------------|
 | &&	   | Called Logical AND operator. If both the operands are non-zero, then condition becomes true.	 |    (A && B) is false.|
-| ||	   | Called Logical OR Operator. If any of the two operands is non-zero, then condition becomes true.|    (A || B) is true. |
+| \|\|	   | Called Logical OR Operator. If any of the two operands is non-zero, then condition becomes true.|    (A || B) is true. |
 | !	       | Called Logical NOT Operator. Use to reverses the logical state of its operand.                  | 	!(A && B) is true.  |
