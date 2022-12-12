@@ -179,17 +179,17 @@ print("sum of a & b :", a+b)
 
 ## Python Reserve Keyword
 
-    |and	 |  exec   |	not   |
-    |--------|---------|----------|
-    |assert	 |  finally|    or    |
-    |break	 |  for	   |    pass  |
-    |class	 |  from   |    print |
-    |continue|  global |    raise |
-    |def	 |   if	   |    return|
-    |del	 |   import|    try   |
-    |elif	 |   in	   |    while |
-    |else	 |   is	   |    with  |
-    |except	 |  lambda |    yield |
+|and	 |  exec   |	not   |
+|--------|---------|----------|
+|assert	 |  finally|    or    |
+|break	 |  for	   |    pass  |
+|class	 |  from   |    print |
+|continue|  global |    raise |
+|def	 |   if	   |    return|
+|del	 |   import|    try   |
+|elif	 |   in	   |    while |
+|else	 |   is	   |    with  |
+|except	 |  lambda |    yield |
 
 Just keep in mind next time, never to use a variable from above reserved keyword list.
 
@@ -200,10 +200,10 @@ An operator in programming language tell compiler or interpreter to perform spec
 
 ### Arithmatic  Operator
 
->a+b
->a-b
+* a+b
+* a-b
 
-The above two + & - operator are widley use to perform calculations, therfore they are called arithmatic operator and expression 
+The above two **+** & **-** operator are widley use to perform calculations, therfore they are called arithmatic operator and expression 
 are called arithmatic expression.
 
 
@@ -219,6 +219,7 @@ are called arithmatic expression.
 ### Relational Operator
 
 a = 10
+
 b = 5
 
 consider two variable with values 10 & 5, if try two compare then
